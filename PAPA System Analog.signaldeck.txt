@@ -1,0 +1,42 @@
+PAPA System · 37 channels
+
+1. PAPA 00: Simplex  144.4600 MHz, FM
+2. PAPA 01: Oat Mountain  446.5800 MHz, −5.0000 MHz offset (TX 441.5800), FM, tone 127.3, RX tone 100.0
+3. PAPA 03: Santiago Peak  446.7600 MHz, −5.0000 MHz offset (TX 441.7600), FM, tone D073N
+4. PAPA 04H: Hollywood Hills  445.4200 MHz, −5.0000 MHz offset (TX 440.4200), FM, tone 131.8, RX tone 141.3
+5. PAPA 04S: Saddle Peak  445.4200 MHz, −5.0000 MHz offset (TX 440.4200), FM, tone 127.3, RX tone 141.3
+6. PAPA 05: Signal Peak  445.4200 MHz, −5.0000 MHz offset (TX 440.4200), FM, tone 127.3, RX tone 141.3
+7. PAPA 06: Santa Ynes  446.7600 MHz, −5.0000 MHz offset (TX 441.7600), FM, tone 156.7, RX tone 100.0
+8. PAPA 07: Toro Peak  447.8400 MHz, −5.0000 MHz offset (TX 442.8400), FM, tone 103.5, RX tone 114.8
+9. PAPA 08PV: Palos Verdes  445.1400 MHz, −5.0000 MHz offset (TX 440.1400), FM, tone 100.0, RX tone 141.3
+10. PAPA 08V: Verdugo Peak  445.1400 MHz, −5.0000 MHz offset (TX 440.1400), FM, tone 131.8, RX tone 141.3
+11. PAPA 08W: Mount Wilson  445.1400 MHz, −5.0000 MHz offset (TX 440.1400), FM, tone 127.3, RX tone 141.3
+12. PAPA 09: San Marcos  446.7200 MHz, −5.0000 MHz offset (TX 441.7200), FM, tone 103.5, RX tone 114.8
+13. PAPA 10: Palomar  448.5400 MHz, −5.0000 MHz offset (TX 443.5400), FM, tone 103.5, RX tone 114.8
+14. PAPA 11: Otay  447.5600 MHz, −5.0000 MHz offset (TX 442.5600), FM, tone 103.5, RX tone 114.8
+15. PAPA 14: Blue Ridge  446.5800 MHz, −5.0000 MHz offset (TX 441.5800), FM, tone 123.0, RX tone 141.3
+16. PAPA 15: Woodson  446.3600 MHz, −5.0000 MHz offset (TX 441.3600), FM, tone 103.5, RX tone 114.8
+17. PAPA 18: Edom Hill  445.8600 MHz, −5.0000 MHz offset (TX 440.8600), FM, tone 103.5, RX tone 114.8
+18. PAPA 19: El Paso Peak  448.8800 MHz, −5.0000 MHz offset (TX 443.8800), FM, tone 100.0
+19. PAPA 20: Redlands  447.0000 MHz, −5.0000 MHz offset (TX 442.0000), FM, tone 123.0
+20. PAPA 21: Redlands  145.2600 MHz, −0.6000 MHz offset (TX 144.6600), FM, tone 127.3, RX tone 141.3
+21. PAPA 22: Pleasants Peak  446.3200 MHz, −5.0000 MHz offset (TX 441.3200), FM, tone 127.3, RX tone 141.3
+22. PAPA 23: Big Bear  449.3800 MHz, −5.0000 MHz offset (TX 444.3800), FM, tone 127.3, RX tone 141.3
+23. PAPA 24: Elsinore Peak  446.7000 MHz, −5.0000 MHz offset (TX 441.7000), FM, tone 103.5, RX tone 114.8
+24. PAPA 26: Thousand Oaks  446.3400 MHz, −5.0000 MHz offset (TX 441.3400), FM, tone 156.7, RX tone 100.0
+25. PAPA 28: Needles  447.0000 MHz, −5.0000 MHz offset (TX 442.0000), FM, tone 127.3, RX tone 141.3
+26. PAPA 29: Low Potosi  448.4000 MHz, −5.0000 MHz offset (TX 443.4000), FM, tone 127.3, RX tone 141.3
+27. PAPA 30: South Mountain  446.3600 MHz, −5.0000 MHz offset (TX 441.3600), FM, tone 156.7, RX tone 100.0
+28. PAPA 31: Daniel Peak  445.8600 MHz, −5.0000 MHz offset (TX 440.8600), FM, tone 103.5, RX tone 114.8
+29. PAPA 32: Joaquin Ridge  442.6000 MHz, +5.0000 MHz offset (TX 447.6000), FM, tone 156.7, RX tone 100.0
+30. PAPA 34: Cuesta Ridge  443.2000 MHz, +5.0000 MHz offset (TX 448.2000), FM, tone 156.7, RX tone 100.0
+31. PAPA 35: Turquoise Mountain  446.7000 MHz, −5.0000 MHz offset (TX 441.7000), FM, tone 127.3, RX tone 141.3
+32. PAPA 36: Heaps Peak  446.9800 MHz, −5.0000 MHz offset (TX 441.9800), FM, tone 127.3, RX tone 141.3
+33. PAPA 37: Mount Laguna  447.5400 MHz, −5.0000 MHz offset (TX 442.5400), FM, tone 103.5, RX tone 114.8
+34. PAPA 38: Hauser Peak  446.7000 MHz, −5.0000 MHz offset (TX 441.7000), FM, tone 127.3, RX tone 141.3
+35. PAPA 39: Mount Adelaide  442.7500 MHz, +5.0000 MHz offset (TX 447.7500), FM, tone 156.7
+36. PAPA 40: Black Mountain  446.5800 MHz, −5.0000 MHz offset (TX 441.5800), FM, tone 103.5, RX tone 114.8
+37. PAPA: Portable Node  446.5000 MHz, FM
+
+To import into SignalDeck: share this to SignalDeck, or copy all of it and use Channels → Share → Import.
+SDCP1:eNqtl29vmzAQxt_vU_gj-B9geJdulaKp7aK2arSXXrBSVAe3GNZVyoffAbbLunWxvIGEDin66XLPc3fmOzluVpsVunmxvTp82M1vGFfopjk8avXjSI6Ec55juJYR3PSI3T1GZIrG5_SaHccrAEmFvsgeXZqh7WXTwu-AlImJxTlx0UyFJxuDGC6DRGXbN3Jv0EbJhxlc5B5cLNMFdHicAvN1hdZG65dnY2q0brS2Ezvj1LGxi3zSdEqaxLBvxqzrWqvXnE9xY4qRjartW6n_LzafayzR11bZvxbYK5dHUIsK3ZpuoVohuINSFwVoMbkwAio2dxXaSG0sulNd7dLNiCdjwn8vAuQcQQbwiByWRjsBjjKD2FZzW6Bto61po8AxspWTbOhSdjvjZaNBNppWYYLn-h5kNyFF5hNlWaJoZJwNvXyZTZB5Z9EsT-TxCp3pQaHrpt6rE5NmNkAZQYXm2sIo8ArlLLQAS01UVOi8NodpusyyCw_FIhUKsp_DAJB24VMh_P9n4g-TNqYBKAh_rWot23o2U4GxV8pFgVlG1pSSX5iEZzTsmTxPsz2lYFCtpIWJZRcrgQXrs8Q5SGHXnDV7dKac90vmq8qZSGTyUS3btKZTy_2FQ5_iNBtQGNq392aAMtSweR_cAGA8VIGnzW0Kpr1SIJo6ZYP4IoBlL8wz2pje2GY2LPdUxhOpbDzDmKG_f3PoeL9vY0vAwLafZNuo5Z79985l4NzPRj4NTbsYXXNHjOAix4n5gsk-DsrCBn_lzl0wcgVN5cJIvB26p8E0Vr2p8rsOjtcPHLxW8nHZxGUY42Viw7HCb9sLuR9a6ZZOOHmkLjEGbbGWg1VdTBvHp1v6dFe10rKpnSmKzJvCRYGcR4rH8bgl5e4h-kweWQoYv6br5Tc43F6Z2u9fXwkfxX4__AQEFe38:END

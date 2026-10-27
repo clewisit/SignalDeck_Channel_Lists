@@ -1,4 +1,4 @@
-PAPA System · 37 channels
+PAPA System Analog · 37 channels
 
 1. PAPA 00: Simplex  144.4600 MHz, FM
 2. PAPA 01: Oat Mountain  446.5800 MHz, −5.0000 MHz offset (TX 441.5800), FM, tone 127.3, RX tone 100.0

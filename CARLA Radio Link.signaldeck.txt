@@ -1,0 +1,39 @@
+CARLA Radio (Link) · 34 channels
+
+1. CARLA 02: San Francisco  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 162.2
+2. CARLA 03: Pt. Arena  443.0750 MHz, +5.0000 MHz offset (TX 448.0750), FM, tone 173.8
+3. CARLA 04: Greenfield  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 167.9
+4. CARLA 05: Oakland  443.0500 MHz, +5.0000 MHz offset (TX 448.0500), FM, tone 173.8
+5. CARLA 06: Willows  443.0750 MHz, +5.0000 MHz offset (TX 448.0750), FM, tone 167.9
+6. CARLA 07: San Jose  443.0750 MHz, +5.0000 MHz offset (TX 448.0750), FM, tone 167.9
+7. CARLA 08: South Lake Tahoe  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 151.4
+8. CARLA 09: Angels Camp  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 173.8
+9. CARLA 10: Monterey Bay  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 173.8
+10. CARLA 11: Walnut Creek  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 162.2
+11. CARLA 12: Pleasanton  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 156.7
+12. CARLA 13: Shasta Lake  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 167.9
+13. CARLA 14: Cisco Grove  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 156.7
+14. CARLA 15: Fresno  440.7500 MHz, +5.0000 MHz offset (TX 445.7500), FM, tone 162.2
+15. CARLA 16: Sacramento  440.7500 MHz, +5.0000 MHz offset (TX 445.7500), FM, tone 173.8
+16. CARLA 17: Sonora  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 151.4
+17. CARLA 18:Topaz Lake  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 156.7
+18. CARLA 19: Hayward  443.3250 MHz, +5.0000 MHz offset (TX 448.3250), FM, tone 173.8
+19. CARLA 20: Burney  440.7500 MHz, +5.0000 MHz offset (TX 445.7500), FM, tone 156.7
+20. CARLA 21: Reno  440.7500 MHz, +5.0000 MHz offset (TX 445.7500), FM, tone 156.7
+21. CARLA 22: Hawthorne  440.7250 MHz, +5.0000 MHz offset (TX 445.7250), FM, tone 156.7
+22. CARLA 23: North Lake Tahoe  441.5500 MHz, +5.0000 MHz offset (TX 446.5500), FM, tone 156.7
+23. CARLA 24: Carson Valley  443.3250 MHz, +5.0000 MHz offset (TX 448.3250), FM, tone 156.7
+24. CARLA 25: Redding  444.3250 MHz, +5.0000 MHz offset (TX 449.3250), FM, tone 173.8
+25. CARLA 26: Geyserville  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 167.9
+26. CARLA 27: Quincy  440.7250 MHz, +5.0000 MHz offset (TX 445.7250), FM, tone 173.8
+27. CARLA 28: Mt. Shasta  443.4750 MHz, +5.0000 MHz offset (TX 448.4750), FM, tone 173.8
+28. CARLA 29: San Luis Obispo  443.5000 MHz, +5.0000 MHz offset (TX 448.5000), FM, tone 162.2
+29. CARLA 30: Bakersfield  444.9000 MHz, +5.0000 MHz offset (TX 449.9000), FM, tone 162.2
+30. CARLA 31: Los Angeles  448.0800 MHz, −5.0000 MHz offset (TX 443.0800), FM, tone 162.2
+31. CARLA 32: Pacifica  440.7250 MHz, +5.0000 MHz offset (TX 445.7250), FM, tone 167.9
+32. CARLA 33: Gualala  442.0750 MHz, +5.0000 MHz offset (TX 447.0750), FM, tone 141.3
+33. CARLA 35: Oakland  146.8500 MHz, −0.6000 MHz offset (TX 146.2500), FM, tone 162.2
+34. CARLA 36: Willows  146.1150 MHz, +0.6000 MHz offset (TX 146.7150), FM, tone 173.8
+
+To import into SignalDeck: share this to SignalDeck, or copy all of it and use Channels → Share → Import.
+SDCP1:eNqtlk1v2zAMhu_7FTpul8GSv31LAzTDkK5dWnRnzlEbI64USHYCD_7xo2wlQdFhYIzYF9qHBxRfvqT2vJ_PVssZW8G60uzzslLbL59K_zMQBXsExW4NqLKype55H0UiSOMgCDBKfcTxFX3Qu0hkQ8j9Z9APn3HvnjM4LNhD85XNjFQwQMMTNPsHNBQUaFSwhZFSvVSyXhNSDQMKNS7YPWxrUGufqOOMiY7R5YkmBftV1bU-WMrZSVmmo1LftZVXY2bI1G2zYUvYSvYEGy0pDRBT2HnBZupV1pbN4W1HEYtSWR4U7E6rRhrZsRvoxlJEp1JEU7kcFYNatQ2bY4dtCVySDzga7KGWYEE1WlGKm1Co6K7HDdgGBuWu5QSO_pq7KYAu03tJqQEpWzTYrZFWjdNlzM4R4_Sjv2hVTZwZSgNvEstKoNJ6wFlMK22AcnKKCXhWPOkd_DmrdI1yorO-QXcA4-dVKI5IH118coGuummNkh1FIUqSAv20kjTFSTzhDn1oNhqz9NDjseNUTKukQBv90Obj_OPxMeEknpqw8xIYqxV7hrr2lf2_VjRw7Cq7XlfqdUBGJ2Q-WX6000J2Vpo9Li1Ko5LGiUA__WwrVXYEwWiJ4sK6w1vFOPuuNftFPq7WZVtZdv-7sruxbcNB-gHto4sHVeiMhb1l7PnKEuVHbJ5PxaK7ltqOC1aOd4wsyDw29NHlWLesoKxeqhIoklGaIESPLVqo8aVsv5CCfHdh41GSeY9GiZi4UMJ3FzYEcR57ZMov66q_9uqPug:END
